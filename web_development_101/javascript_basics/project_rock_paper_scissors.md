@@ -744,4 +744,5 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [akashdas98's Solution](https://github.com/akashdas98/RockPaperSissors) 
 - [Omar Collado's Solution with UI](https://github.com/Omar-Collado/RPS-js) - [View in Browser](https://omar-collado.github.io/RPS-js/)
 - [Harshit Goyal's Solution](https://github.com/hg333/rock_paper_scissors_) - [View in Browser](https://hg333.github.io/rock_paper_scissors_/)
+- [R3dius's Solution](https://github.com/r3dius/odinproject_webdev101/blob/master/js_rockpaperandscissors/playrpands.htm) - [View in Browser](https://github.com/r3dius/odinproject_webdev101/blob/master/js_rockpaperandscissors/playrpands.htm)
 </details>
